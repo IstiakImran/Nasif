@@ -1,0 +1,40 @@
+main{
+    padding: 30px 10%;
+}
+.student{
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.student img{
+    height: 500px;
+    width: 278px;
+
+   
+  
+}
+.imgg{
+    height: 500px;
+    width: 500px;
+    
+    background-image: url(../images/Untitled.png);
+    background-size: 80%;
+    background-position-y: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+@media screen and (max-width: 768px) {
+    .student{
+    padding-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+}

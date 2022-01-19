@@ -1,0 +1,14 @@
+
+.contect-link{text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+.contect-link a{
+    padding: 10px 10px;
+    text-decoration: none;
+    color: gray;
+
+}
