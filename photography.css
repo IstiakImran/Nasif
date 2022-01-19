@@ -21,4 +21,9 @@
     grid-template-columns: repeat(1, 1fr);
     justify-items: center;
 }
+.images img{
+    width: 350px;
+    
+    padding: 20px 0;
+}
 }

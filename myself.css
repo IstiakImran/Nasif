@@ -15,12 +15,19 @@
 }
 
 @media screen and (max-width: 768px) {
+    main{
+        padding: 1% 1%;
+    }
     .myself{
     padding-bottom: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+.myself-text{
+    
+    width: 350px;
 }
 
 }

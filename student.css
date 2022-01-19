@@ -37,4 +37,25 @@ main{
     justify-content: center;
     align-items: center;
 }
+.student img{
+    height: 400px;
+    
+
+   
+  
+}
+.imgg{
+    height: 350px;
+    width: 350px;
+    
+    background-image: url(../images/Untitled.png);
+    background-size: 80%;
+    background-position-y: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
 }
