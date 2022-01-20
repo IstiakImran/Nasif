@@ -25,9 +25,16 @@
     justify-content: center;
     align-items: center;
 }
-.myself-text{
-    
+.myself img{
+    height: 468px;
     width: 350px;
+    border-radius: 10px;
+    padding: 20px 0;
+}
+.myself-text{
+    text-align: center;
+    width: 315px;
+    padding: 20px 0;
 }
 
 }

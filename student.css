@@ -31,23 +31,25 @@ main{
 
 @media screen and (max-width: 768px) {
     .student{
-    padding-bottom: 70px;
+    padding: 70px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 .student img{
-    height: 400px;
+    height: 315px;
+    width: 175px;
     
 
    
   
 }
 .imgg{
+
     height: 350px;
     width: 350px;
-    
+    padding: 40px 0;
     background-image: url(../images/Untitled.png);
     background-size: 80%;
     background-position-y: center;
